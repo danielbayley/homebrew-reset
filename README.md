@@ -8,7 +8,13 @@ Install
 brew tap danielbayley/reset
 brew reset #cask
 ~~~
-`git config core.hooksPath .github/hooks`
+
+Contribute
+----------
+~~~ sh
+brew tap danielbayley/pipeline
+git config core.hooksPath .github/hooks
+~~~
 
 License
 -------
